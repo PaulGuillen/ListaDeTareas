@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Semana4Tarea</string>
+    <string name="action_settings">Settings</string>
+    <string name="fecha1">FEB 2 2016</string>
+    <string name="fecha2">FEB 4 2016</string>
+    <string name="titulo">List</string>
+    <string name="texto1">Interview at google</string>
+    <string name="hora1">12:30PM</string>
+    <string name="texto2">Pick up the Kids</string>
+    <string name="hora2">4:30PM</string>
+    <string name="texto3">Brain\'s birthday party</string>
+    <string name="hora3">7:00PM</string>
+    <string name="texto4">First project due and second project</string>
+    <string name="hora4">9:30AM</string>
+    <string name="fecha3">FEB 6 2016</string>
+    <string name="texto5">Finish the first operation</string>
+    <string name="hora5">9:00PM</string>
+    <string name="hora7">6:00AM</string>
+    <string name="texto6">Dinner at PartyCity</string>
+    <string name="texto7">Bring laptop to the meeting</string>
+    <string name="hora8">8:00AM</string>
+    <string name="hora9">Leg Day</string>
+    <string name="hora6am">6:00AM</string>
+    <string name="texto9">Brain\'s birthday party</string>
+    <string name="hora10">9:00PM</string>
+    <string name="lista_de_tareas">Lista de Tareas</string>
+</resources>
